@@ -1,0 +1,6 @@
+langs_q1_q3
+__pycache__/
+chatbot_conversations*
+satisfaction_model/
+*.tmp
+topic_analysis*

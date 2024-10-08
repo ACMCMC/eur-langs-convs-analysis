@@ -1,0 +1,2 @@
+Avg silhouette score: -0.12122762948274612
+Std silhouette score: 0.023928970098495483
