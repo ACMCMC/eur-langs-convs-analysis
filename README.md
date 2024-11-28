@@ -77,6 +77,10 @@ No figures are generated for this research question.
 - `figures/satisfaction/satisfaction_label_per_language.pdf`: A bar plot showing the aggregated statistics of the results of running the satisfaction classifier on the entire dataset.
 - `figures/satisfaction/satisfaction_label_per_language_residuals.pdf`: A heatmap showing the chi-squared residuals of the satisfaction classifier results, comparing the observed and expected values for each language and satisfaction label.
 
+# Annotator guidelines
+
+For the annotation process part of **RQ5**, we provided clear and specific guidelines, which can be accessed in the [`argilla_instance.py` file](https://github.com/ACMCMC/eur-langs-convs-analysis/blob/2f8f7da02833393017fd04a0012e07fa4d3613d1/argilla_instance.py#L19).
+
 # AI Disclaimer
 We used AI code generation assitance from GitHub Copilot for this project. Nonetheless, the coding process has been essentially manual, with the AI code generator exclusively helping us to speed up the process.
 
